@@ -1,6 +1,6 @@
-# INE5381 – Fundamentos da Matemática Discreta
+# INE5381 – Fundamentos da Matemática Discreta para Computação
 
-Este repositório contém trabalhos desenvolvidos para a disciplina **Fundamentos da Matemática Discreta (INE5381)** da **Universidade Federal de Santa Catarina (UFSC)**.
+Este repositório contém trabalhos desenvolvidos para a disciplina **Fundamentos da Matemática Discreta para Computação (INE5381)** da **Universidade Federal de Santa Catarina (UFSC)**.
 
 ## 📌 Conteúdo
 
